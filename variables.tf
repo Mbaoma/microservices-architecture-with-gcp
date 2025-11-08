@@ -81,7 +81,7 @@ variable "db_version" {
 variable "db_tier" {
   description = "Cloud SQL machine type"
   type        = string
-  default     = "db-perf-optimized-N-2"
+  default     = "db-perf-optimized-2-8"
 }
 
 variable "db_disk_size_gb" {
