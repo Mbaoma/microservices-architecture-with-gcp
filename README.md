@@ -191,4 +191,3 @@ If compliance requires customer-managed keys, additional KMS resources and key r
 - `admin_cidr` is assumed to be a trusted corporate IP/VPN range.
 In more advanced setups, I'd typically front this with Cloud VPN / Cloud Interconnect and tighter ranges.
 
-
